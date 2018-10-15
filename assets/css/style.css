@@ -52,7 +52,7 @@ nav a:visited {
 #navbarNav a {
     border-right: 1px solid grey;
     text-decoration: none;
-    line-height: 100%;
+    line-height: 100%; 
 }
 
 #navbarNav a:last-child {
